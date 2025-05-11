@@ -1,0 +1,9 @@
+{
+  "parent": "words_of_radiance:custom/stonebladejezerezeh2",
+  "textures": {
+    "all": "words_of_radiance:block/jezerezehbladetexturetwo",
+    "particle": "words_of_radiance:block/jezerezehbladetexturetwo",
+    "0": "words_of_radiance:block/jezerezehbladetexturetwo"
+  },
+  "render_type": "cutout_mipped"
+}

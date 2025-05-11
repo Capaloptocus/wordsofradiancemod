@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "words_of_radiance:block/stone_blade_pai"
+    },
+    "facing=east": {
+      "model": "words_of_radiance:block/stone_blade_pai",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "words_of_radiance:block/stone_blade_pai",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "words_of_radiance:block/stone_blade_pai",
+      "y": 270
+    }
+  }
+}

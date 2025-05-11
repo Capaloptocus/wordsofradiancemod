@@ -1,0 +1,24 @@
+{
+  "_fv": 77,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "The Second Ideal (Stoneward)",
+    "achievementDescription": "Swear the Second Ideal of the Stonewards",
+    "achievementIcon": {
+      "value": "Blocks.CHISELED_RESIN_BRICKS"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 250,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:IdealOne"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"37\" y=\"26\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

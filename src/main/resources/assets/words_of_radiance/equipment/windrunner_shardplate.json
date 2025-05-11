@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "words_of_radiance:windrunner_shardplate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "words_of_radiance:windrunner_shardplate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.second_ideal_elsecaller.title"
+    },
+    "description": {
+      "translate": "advancements.second_ideal_elsecaller.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "second_ideal_elsecaller_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 250
+  },
+  "parent": "words_of_radiance:ideal_one"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:magma_cream"
+    },
+    "title": {
+      "translate": "advancements.fourth_ideal_dustbringer.title"
+    },
+    "description": {
+      "translate": "advancements.fourth_ideal_dustbringer.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fourth_ideal_dustbringer_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 600
+  },
+  "parent": "words_of_radiance:third_ideal_dustbringer"
+}

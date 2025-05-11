@@ -1,0 +1,158 @@
+{
+  "_fv": 77,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ideal_of_dedication",
+          "text": {
+            "fixedValue": "Ideal of Dedication"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "x": 165,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_law_of_the_land",
+          "text": "Law of the Land",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "LawOfTheLand"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 162,
+          "y": 61,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_swear_not_to_kill_any_endermen",
+          "text": {
+            "fixedValue": "Swear not to kill any endermen, or the ender dragon."
+          },
+          "width": 103,
+          "height": 18,
+          "x": 162,
+          "y": 91,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_law_of_conquest",
+          "text": "Law of Conquest",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "LawOfConquest"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 162,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_swear_not_to_kill_other_players",
+          "text": {
+            "fixedValue": "Swear not to kill other players, or their allies."
+          },
+          "width": 102,
+          "height": 19,
+          "x": 162,
+          "y": 62,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_law_of_inhabitance",
+          "text": "Law of Occupation",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "LawOfOccupation"
+          },
+          "width": 119,
+          "height": 20,
+          "x": 154,
+          "y": 120,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_swear_not_to_kill_any_villagers",
+          "text": {
+            "fixedValue": "Swear not to kill any villagers or iron golems."
+          },
+          "width": 119,
+          "height": 20,
+          "x": 155,
+          "y": 120,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_laws_beyond_death",
+          "text": "Laws Beyond Death",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "LawBeyondDeath"
+          },
+          "width": 113,
+          "height": 20,
+          "x": 157,
+          "y": 150,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_swear_not_to_kill_any_zombies_s",
+          "text": {
+            "fixedValue": "Swear not to kill any zombies, skeletons, or other undead."
+          },
+          "width": 112,
+          "height": 18,
+          "x": 158,
+          "y": 151,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

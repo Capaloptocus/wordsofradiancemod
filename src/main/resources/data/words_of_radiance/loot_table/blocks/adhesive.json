@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "words_of_radiance:blocks/adhesive",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "words_of_radiance:adhesive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "words_of_radiance:edgedancer_plate"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "words_of_radiance:edgedancer_plate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:willshaper_blade",
+    "words_of_radiance:windrunner_blade",
+    "words_of_radiance:skybreaker_blade",
+    "words_of_radiance:dustbringer_blade",
+    "words_of_radiance:edgedancer_blade",
+    "words_of_radiance:truthwatcher_blade",
+    "words_of_radiance:lightweaver_blade",
+    "words_of_radiance:elsecaller_blade",
+    "words_of_radiance:stoneward_blade",
+    "words_of_radiance:jezriens_blade_bonded",
+    "words_of_radiance:nales_blade_bonded",
+    "words_of_radiance:channahs_blade_bonded",
+    "words_of_radiance:vedels_blade_bonded",
+    "words_of_radiance:prallas_blade_bonded",
+    "words_of_radiance:ashs_blade_bonded",
+    "words_of_radiance:battars_blade_bonded",
+    "words_of_radiance:talns_blade_bonded",
+    "words_of_radiance:kalaks_blade_bonded",
+    "words_of_radiance:bonded_dead_blue_blade",
+    "words_of_radiance:bonded_dead_blade_black",
+    "words_of_radiance:bonded_dead_blade_red",
+    "words_of_radiance:bonded_dead_blade_white",
+    "words_of_radiance:bonded_dead_blade_green",
+    "words_of_radiance:bonded_dead_blade_pink_red",
+    "words_of_radiance:bonded_dead_blade_zircon",
+    "words_of_radiance:bonded_dead_blade_purple",
+    "words_of_radiance:bonded_dead_blade_orange"
+  ]
+}

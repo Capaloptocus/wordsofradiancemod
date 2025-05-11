@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:beads",
+    "words_of_radiance:sandstone_fluid",
+    "words_of_radiance:granite_fluid",
+    "words_of_radiance:diorite_fluid",
+    "words_of_radiance:andesite_fluid",
+    "words_of_radiance:end_stone_fluid",
+    "words_of_radiance:netherite_fluid",
+    "words_of_radiance:sand_fluid",
+    "words_of_radiance:cobblestone_fluid",
+    "words_of_radiance:dirt_fluid",
+    "words_of_radiance:stone_fluid"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_stoneward",
+  "textures": {
+    "1": "words_of_radiance:block/shardblade_stoneward",
+    "missing": "words_of_radiance:block/shardblade_stoneward",
+    "particle": "words_of_radiance:item/shardblade_stoneward"
+  }
+}

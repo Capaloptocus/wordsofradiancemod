@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "words_of_radiance:dead_pink_red_blade",
+    "#minecraft:gem"
+  ],
+  "result": {
+    "id": "words_of_radiance:dead_pink_red_blade_with_gem",
+    "count": 1
+  }
+}

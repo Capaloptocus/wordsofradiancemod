@@ -1,0 +1,7 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_dustbringer_gem",
+  "textures": {
+    "2": "words_of_radiance:block/dbringerbladegem",
+    "particle": "words_of_radiance:item/dbringerbladegem"
+  }
+}

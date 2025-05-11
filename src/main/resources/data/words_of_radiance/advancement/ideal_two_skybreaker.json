@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ingot"
+    },
+    "title": {
+      "translate": "advancements.ideal_two_skybreaker.title"
+    },
+    "description": {
+      "translate": "advancements.ideal_two_skybreaker.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ideal_two_skybreaker_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 250
+  },
+  "parent": "words_of_radiance:ideal_one"
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 77,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "The Second Ideal (Truthwatcher)",
+    "achievementDescription": "Swear the Second Ideal of the Truthwatchers",
+    "achievementIcon": {
+      "value": "Items.EMERALD"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 200,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:IdealOne"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"25\" y=\"19\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

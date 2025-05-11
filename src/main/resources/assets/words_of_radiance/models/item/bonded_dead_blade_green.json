@@ -1,0 +1,7 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_truthwatcher_gem",
+  "textures": {
+    "2": "words_of_radiance:block/twatcherbladegem",
+    "particle": "words_of_radiance:item/twatcherbladegem"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 77,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Swear the Fifth Ideal (Skybreaker)",
+    "achievementDescription": "Take the Ideal of Law, wherein a Skybreaker may become the law.",
+    "achievementIcon": {
+      "value": "Items.IRON_INGOT"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 10000,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:FourthIdealSkybreaker"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"63\" y=\"49\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

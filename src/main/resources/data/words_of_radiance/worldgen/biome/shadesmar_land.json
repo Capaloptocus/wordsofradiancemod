@@ -1,0 +1,62 @@
+{
+  "has_precipitation": true,
+  "temperature": 1.5,
+  "downfall": 0.5,
+  "effects": {
+    "ambient_sound": "ambient.cave",
+    "mood_sound": {
+      "sound": "entity.enderman.teleport",
+      "tick_delay": 6000,
+      "offset": 8,
+      "block_search_extent": 2
+    },
+    "music": [
+      {
+        "weight": 1,
+        "data": {
+          "sound": "ambient.soul_sand_valley.mood",
+          "min_delay": 12000,
+          "max_delay": 24000,
+          "replace_current_music": true
+        }
+      }
+    ],
+    "particle": {
+      "options": {
+        "type": "words_of_radiance:bindspren"
+      },
+      "probability": 0.005
+    },
+    "foliage_color": 10387789,
+    "grass_color": 9470285,
+    "sky_color": -14876555,
+    "fog_color": -14876555,
+    "water_color": -14876555,
+    "water_fog_color": -14876555
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": [],
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

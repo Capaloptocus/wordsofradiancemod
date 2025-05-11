@@ -1,0 +1,9 @@
+{
+  "parent": "words_of_radiance:custom/pailiah",
+  "textures": {
+    "all": "words_of_radiance:block/pailiahstonebladetexture",
+    "particle": "words_of_radiance:block/pailiahstonebladetexture",
+    "0": "words_of_radiance:block/pailiahstonebladetexture"
+  },
+  "render_type": "cutout_mipped"
+}

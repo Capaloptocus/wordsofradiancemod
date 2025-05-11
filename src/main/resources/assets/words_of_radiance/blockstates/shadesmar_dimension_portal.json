@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "words_of_radiance:block/shadesmar_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "words_of_radiance:block/shadesmar_dimension_portal_ns"
+    }
+  }
+}

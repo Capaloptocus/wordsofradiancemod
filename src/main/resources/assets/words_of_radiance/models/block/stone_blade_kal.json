@@ -1,0 +1,9 @@
+{
+  "parent": "words_of_radiance:custom/stonebladekalak",
+  "textures": {
+    "all": "words_of_radiance:block/stonebladekalak",
+    "particle": "words_of_radiance:block/stonebladekalak",
+    "0": "words_of_radiance:block/stonebladekalak"
+  },
+  "render_type": "cutout_mipped"
+}

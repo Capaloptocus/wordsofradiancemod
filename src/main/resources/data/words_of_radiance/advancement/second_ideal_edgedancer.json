@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:birch_log"
+    },
+    "title": {
+      "translate": "advancements.second_ideal_edgedancer.title"
+    },
+    "description": {
+      "translate": "advancements.second_ideal_edgedancer.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "second_ideal_edgedancer_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 250
+  },
+  "parent": "words_of_radiance:ideal_one"
+}

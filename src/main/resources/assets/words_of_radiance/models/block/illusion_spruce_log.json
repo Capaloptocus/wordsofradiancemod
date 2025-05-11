@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft:block/spruce_log_top",
+    "top": "minecraft:block/spruce_log_top",
+    "side": "minecraft:block/spruce_log",
+    "overlay": "minecraft:block/spruce_log",
+    "particle": "minecraft:block/spruce_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "words_of_radiance:custom/ladder",
+  "textures": {
+    "all": "words_of_radiance:block/cobblestone",
+    "particle": "words_of_radiance:block/cobblestone",
+    "texture": "words_of_radiance:block/cobblestone"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "words_of_radiance:block/infused_stones"
+    },
+    "facing=east": {
+      "model": "words_of_radiance:block/infused_stones",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "words_of_radiance:block/infused_stones",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "words_of_radiance:block/infused_stones",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "words_of_radiance:block/infused_stones",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "words_of_radiance:block/infused_stones",
+      "x": 90
+    }
+  }
+}

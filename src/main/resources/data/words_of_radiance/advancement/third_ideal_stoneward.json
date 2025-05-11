@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:chiseled_resin_bricks"
+    },
+    "title": {
+      "translate": "advancements.third_ideal_stoneward.title"
+    },
+    "description": {
+      "translate": "advancements.third_ideal_stoneward.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "third_ideal_stoneward_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 400
+  },
+  "parent": "words_of_radiance:second_ideal_stoneward"
+}

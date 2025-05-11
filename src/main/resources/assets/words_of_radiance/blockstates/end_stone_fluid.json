@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "words_of_radiance:block/end_stone_fluid"
+    }
+  }
+}

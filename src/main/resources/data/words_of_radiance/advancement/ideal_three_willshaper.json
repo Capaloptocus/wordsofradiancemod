@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_block"
+    },
+    "title": {
+      "translate": "advancements.ideal_three_willshaper.title"
+    },
+    "description": {
+      "translate": "advancements.ideal_three_willshaper.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ideal_three_willshaper_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 400
+  },
+  "parent": "words_of_radiance:ideal_two_willshaper"
+}

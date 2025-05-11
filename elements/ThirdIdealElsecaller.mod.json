@@ -1,0 +1,24 @@
+{
+  "_fv": 77,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "The Third Ideal (Elsecaller)",
+    "achievementDescription": "Swear the Third Ideal of the Elsecallers",
+    "achievementIcon": {
+      "value": "Items.ENDER_PEARL"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 400,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:SecondIdealElsecaller"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"38\" y=\"41\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

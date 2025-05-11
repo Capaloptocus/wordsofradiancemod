@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "words_of_radiance:shadesmar_land",
+  "spawners": {
+    "type": "words_of_radiance:cryptic_shadesmar",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

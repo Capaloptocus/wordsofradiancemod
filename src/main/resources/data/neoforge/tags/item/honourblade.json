@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:kalaks_blade",
+    "words_of_radiance:jezriens_blade",
+    "words_of_radiance:nales_blade",
+    "words_of_radiance:channahs_blade",
+    "words_of_radiance:vedels_blade",
+    "words_of_radiance:prallas_blade",
+    "words_of_radiance:ashs_blade",
+    "words_of_radiance:battars_blade",
+    "words_of_radiance:talns_blade"
+  ]
+}

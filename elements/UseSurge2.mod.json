@@ -1,0 +1,12 @@
+{
+  "_fv": 77,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "C",
+    "keyBindingName": "Use Second Surge",
+    "keyBindingCategoryKey": "wor",
+    "onKeyPressed": {
+      "name": "ToggleSurgeTwo"
+    }
+  }
+}

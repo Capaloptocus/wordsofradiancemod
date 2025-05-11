@@ -1,0 +1,8 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_willshaper",
+  "textures": {
+    "2": "words_of_radiance:block/shardblade_willshaper",
+    "missing": "words_of_radiance:block/shardblade_willshaper",
+    "particle": "words_of_radiance:item/shardblade_willshaper"
+  }
+}

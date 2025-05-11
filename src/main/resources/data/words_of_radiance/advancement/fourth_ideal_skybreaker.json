@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:iron_ingot"
+    },
+    "title": {
+      "translate": "advancements.fourth_ideal_skybreaker.title"
+    },
+    "description": {
+      "translate": "advancements.fourth_ideal_skybreaker.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fourth_ideal_skybreaker_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 600
+  },
+  "parent": "words_of_radiance:ideal_three_skybreaker"
+}

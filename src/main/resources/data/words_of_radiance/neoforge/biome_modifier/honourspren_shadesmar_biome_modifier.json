@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "words_of_radiance:shadesmar_land",
+    "words_of_radiance:shadesmar_sea"
+  ],
+  "spawners": {
+    "type": "words_of_radiance:honourspren_shadesmar",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

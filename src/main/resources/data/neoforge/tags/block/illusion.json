@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:illusion_stone",
+    "words_of_radiance:illusion_dirt",
+    "words_of_radiance:illusion_oak_plank",
+    "words_of_radiance:illusion_birch_plank",
+    "words_of_radiance:illusion_dark_oak_plank",
+    "words_of_radiance:illusion_spruce_plank",
+    "words_of_radiance:illusion_oak_log",
+    "words_of_radiance:illusion_birch_log",
+    "words_of_radiance:illusion_dark_oak_log",
+    "words_of_radiance:illusion_spruce_log",
+    "words_of_radiance:illusion_cobblestone"
+  ]
+}

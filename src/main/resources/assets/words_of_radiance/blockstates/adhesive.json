@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "words_of_radiance:block/adhesive"
+    },
+    "powered=true": {
+      "model": "words_of_radiance:block/adhesive_down"
+    }
+  }
+}

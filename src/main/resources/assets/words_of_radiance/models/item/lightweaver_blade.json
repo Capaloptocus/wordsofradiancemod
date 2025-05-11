@@ -1,0 +1,7 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_lightweaver",
+  "textures": {
+    "1": "words_of_radiance:block/shardblade_lightweaver",
+    "particle": "words_of_radiance:item/shardblade_lightweaver"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "words_of_radiance:custom/stonebladevedeledev",
+  "textures": {
+    "all": "words_of_radiance:block/stonebladevedeledevtexture",
+    "particle": "words_of_radiance:block/stonebladevedeledevtexture",
+    "0": "words_of_radiance:block/stonebladevedeledevtexture"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:tension_diamond_sword",
+    "words_of_radiance:tension_gold_sword",
+    "words_of_radiance:tension_iron_sword",
+    "words_of_radiance:tension_stone_sword",
+    "words_of_radiance:tension_wooden_sword",
+    "words_of_radiance:tension_diamond_hoe",
+    "words_of_radiance:tension_gold_hoe",
+    "words_of_radiance:tension_iron_hoe",
+    "words_of_radiance:tension_stone_hoe",
+    "words_of_radiance:tension_wooden_hoe",
+    "words_of_radiance:tension_diamond_shovel",
+    "words_of_radiance:tension_gold_shovel",
+    "words_of_radiance:tension_iron_shovel",
+    "words_of_radiance:tension_stone_shovel",
+    "words_of_radiance:tension_wooden_shovel",
+    "words_of_radiance:tension_diamond_axe",
+    "words_of_radiance:tension_gold_axe",
+    "words_of_radiance:tension_iron_axe",
+    "words_of_radiance:tension_stone_axe",
+    "words_of_radiance:tension_wooden_axe",
+    "words_of_radiance:tension_diamond_pick",
+    "words_of_radiance:tension_gold_pick",
+    "words_of_radiance:tension_iron_pick",
+    "words_of_radiance:tension_stone_pick",
+    "words_of_radiance:tension_wooden_pick"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_edgedancer",
+  "textures": {
+    "2": "words_of_radiance:block/shardblade_edgedancer",
+    "missing": "words_of_radiance:block/shardblade_edgedancer",
+    "particle": "words_of_radiance:item/shardbladeedgendancer2"
+  }
+}

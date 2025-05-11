@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "words_of_radiance:block/sand_fluid"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 77,
+  "_type": "tab",
+  "definition": {
+    "name": "Words Of Radiance",
+    "icon": {
+      "value": "CUSTOM:WindrunnerBlade"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 77,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "LCONTROL",
+    "keyBindingName": "Stoneshaping Mass Key",
+    "keyBindingCategoryKey": "wor",
+    "onKeyPressed": {
+      "name": "StoneshapingMass"
+    }
+  }
+}

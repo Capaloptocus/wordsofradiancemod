@@ -1,0 +1,112 @@
+{
+  "_fv": 77,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "minecraft:iron_helmet",
+    "enableBody": true,
+    "textureBody": "minecraft:iron_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "minecraft:iron_leggings",
+    "enableBoots": true,
+    "textureBoots": "minecraft:iron_boots",
+    "onHelmetTick": {
+      "name": "TensionIronHelmetItemInHandTick"
+    },
+    "onBodyTick": {
+      "name": "TensionIronChestplateItemInHandTick"
+    },
+    "onLeggingsTick": {
+      "name": "TensionIronLeggingsItemInHandTick"
+    },
+    "onBootsTick": {
+      "name": "TensionIronBootsItemInHandTick"
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "armorTextureFile": "tension_iron_",
+    "helmetName": "Tension Infused Iron Armor Helmet",
+    "bodyName": "Tension Infused Iron Armor Chestplate",
+    "leggingsName": "Tension Infused Iron Armor Leggings",
+    "bootsName": "Tension Infused Iron Armor Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetGlowCondition": {
+      "fixedValue": true
+    },
+    "bodyGlowCondition": {
+      "fixedValue": true
+    },
+    "leggingsGlowCondition": {
+      "fixedValue": true
+    },
+    "bootsGlowCondition": {
+      "fixedValue": true
+    },
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 15,
+    "damageValueHelmet": 5,
+    "damageValueBody": 8,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 4,
+    "enchantability": 9,
+    "toughness": 3.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

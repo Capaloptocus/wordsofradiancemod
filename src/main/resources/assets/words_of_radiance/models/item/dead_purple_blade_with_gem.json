@@ -1,0 +1,7 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_willshaper_gem",
+  "textures": {
+    "2": "words_of_radiance:block/wshaperbladegem",
+    "particle": "words_of_radiance:item/wshaperbladegem"
+  }
+}

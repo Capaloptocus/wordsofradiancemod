@@ -1,0 +1,7 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_skybreaker",
+  "textures": {
+    "2": "words_of_radiance:block/shardblade_skybreaker",
+    "particle": "words_of_radiance:item/shardblade_skybreaker"
+  }
+}

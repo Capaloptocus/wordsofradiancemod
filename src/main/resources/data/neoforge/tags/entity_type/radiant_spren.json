@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "words_of_radiance:ink_spren",
+    "words_of_radiance:cryptic",
+    "words_of_radiance:honourspren",
+    "words_of_radiance:highspren",
+    "words_of_radiance:ashspren",
+    "words_of_radiance:cultivationspren",
+    "words_of_radiance:mistspren",
+    "words_of_radiance:lightspren",
+    "words_of_radiance:peakspren"
+  ]
+}

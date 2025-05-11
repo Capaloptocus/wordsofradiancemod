@@ -1,0 +1,188 @@
+{
+  "_fv": 77,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_choose_a_crusade",
+          "text": {
+            "fixedValue": "Choose a Crusade:"
+          },
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "x": 171,
+          "y": 43,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_restore_order",
+          "text": "Restore Order",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "RestoreOrder"
+          },
+          "width": 93,
+          "height": 20,
+          "x": 170,
+          "y": 145,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_respawn_the_ender_dragon",
+          "text": {
+            "fixedValue": "Respawn the Ender Dragon"
+          },
+          "width": 93,
+          "height": 19,
+          "x": 170,
+          "y": 146,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_defeat_a_tyrant",
+          "text": "Defeat a Tyrant",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "KillTyrant"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 165,
+          "y": 62,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_kill_the_ender_dragon",
+          "text": {
+            "fixedValue": "Kill the Ender Dragon"
+          },
+          "width": 101,
+          "height": 18,
+          "x": 166,
+          "y": 63,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_destroy_a_monstrosity",
+          "text": "Destroy a Monstrosity",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "DestroyMonstrosity"
+          },
+          "width": 134,
+          "height": 20,
+          "x": 147,
+          "y": 90,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_kill_the_wither",
+          "text": {
+            "fixedValue": "Kill the Wither"
+          },
+          "width": 133,
+          "height": 18,
+          "x": 148,
+          "y": 91,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_defend_the_innocent",
+          "text": "Defend the Innocent",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "DefendInnocents"
+          },
+          "width": 124,
+          "height": 20,
+          "x": 151,
+          "y": 118,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_win_a_raid",
+          "text": {
+            "fixedValue": "Win a Raid"
+          },
+          "width": 123,
+          "height": 18,
+          "x": 152,
+          "y": 120,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_hunt",
+          "text": "Hunt",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Hunt"
+          },
+          "width": 46,
+          "height": 20,
+          "x": 193,
+          "y": 172,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_kill_one_of_every_hostile_mob",
+          "text": {
+            "fixedValue": "Kill one of every hostile mob."
+          },
+          "width": 46,
+          "height": 18,
+          "x": 193,
+          "y": 173,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

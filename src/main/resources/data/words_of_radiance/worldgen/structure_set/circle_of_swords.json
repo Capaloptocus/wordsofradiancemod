@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "words_of_radiance:circle_of_swords",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 3000,
+    "separation": 2999,
+    "salt": 2116954083
+  }
+}

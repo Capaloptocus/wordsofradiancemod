@@ -1,0 +1,338 @@
+{
+  "_fv": 77,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_choose_soulcasting_essence",
+          "text": {
+            "fixedValue": "Choose Soulcasting Essence"
+          },
+          "color": {
+            "value": -13434880,
+            "falpha": 0.0
+          },
+          "x": 143,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia",
+          "text": "Lucentia",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCLucentia"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 140,
+          "y": 134,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia1",
+          "text": "Zephyr",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCAir"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 140,
+          "y": 63,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia2",
+          "text": "Vapor",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCVapor"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 140,
+          "y": 87,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia3",
+          "text": "Spark",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCSpark"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 140,
+          "y": 110,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia4",
+          "text": "Pulp",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCPulp"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 140,
+          "y": 158,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia5",
+          "text": "Blood",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCBlood"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 217,
+          "y": 63,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia6",
+          "text": "Tallow",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCTallow"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 217,
+          "y": 87,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia7",
+          "text": "Foil",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCFoil"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 217,
+          "y": 110,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia8",
+          "text": "Talus",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCTalus"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 217,
+          "y": 134,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_lucentia9",
+          "text": "Sinew",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "SCSinew"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 217,
+          "y": 158,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_air",
+          "text": {
+            "fixedValue": "Air"
+          },
+          "width": 64,
+          "height": 16,
+          "x": 142,
+          "y": 65,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_smoke",
+          "text": {
+            "fixedValue": "Smoke"
+          },
+          "width": 65,
+          "height": 18,
+          "x": 141,
+          "y": 88,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_fire",
+          "text": {
+            "fixedValue": "Fire"
+          },
+          "width": 64,
+          "height": 16,
+          "x": 142,
+          "y": 112,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_quartz",
+          "text": {
+            "fixedValue": "Quartz"
+          },
+          "width": 65,
+          "height": 18,
+          "x": 141,
+          "y": 135,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_wood",
+          "text": {
+            "fixedValue": "Wood"
+          },
+          "width": 65,
+          "height": 17,
+          "x": 141,
+          "y": 159,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_water",
+          "text": {
+            "fixedValue": "Water"
+          },
+          "width": 65,
+          "height": 19,
+          "x": 218,
+          "y": 64,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_oil_coal",
+          "text": {
+            "fixedValue": "Oil (coal)"
+          },
+          "width": 64,
+          "height": 17,
+          "x": 219,
+          "y": 89,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_metal",
+          "text": {
+            "fixedValue": "Metal"
+          },
+          "width": 65,
+          "height": 18,
+          "x": 218,
+          "y": 111,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_stone",
+          "text": {
+            "fixedValue": "Stone"
+          },
+          "width": 64,
+          "height": 17,
+          "x": 219,
+          "y": 136,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_flesh_bone",
+          "text": {
+            "fixedValue": "Flesh (Bone)"
+          },
+          "width": 65,
+          "height": 17,
+          "x": 218,
+          "y": 160,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

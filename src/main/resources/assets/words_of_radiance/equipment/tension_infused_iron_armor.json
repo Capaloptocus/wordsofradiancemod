@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "words_of_radiance:tension_infused_iron_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "words_of_radiance:tension_infused_iron_armor"
+      }
+    ]
+  }
+}

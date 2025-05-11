@@ -1,0 +1,8 @@
+{
+  "parent": "words_of_radiance:custom/shardblade_truthwatcher",
+  "textures": {
+    "2": "words_of_radiance:block/shardblade_truthwatcher",
+    "missing": "words_of_radiance:block/shardblade_truthwatcher",
+    "particle": "words_of_radiance:item/shardblade_truthwatcher"
+  }
+}
